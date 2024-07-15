@@ -1,0 +1,16 @@
+.top {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+ 
+}
+.user-info, .add-job {
+    display: flex;
+    align-items: center;
+    margin: 15px;
+  }
+
+.custom-size {
+    width: 800px; 
+    height: 300px;
+}
